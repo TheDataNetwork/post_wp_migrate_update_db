@@ -1,6 +1,6 @@
 <?php
 	/*
-		-	Wordpress table update for Bitemark Tech
+		-	Update wordpress content tables with new links and siteurl
 		-	Author: 	Aadil Prabhakar
 		-	Email:		aadilprabhakar@tdn.pw
 	*/
